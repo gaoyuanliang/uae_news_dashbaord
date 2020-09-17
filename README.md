@@ -7,5 +7,5 @@ pip3 install -U spacy
 python3 -m spacy download en_core_web_sm
 
 pip3 install stanza
-
+wget http://nlp.stanford.edu/software/stanza/1.0.0/en/default.zip
 ```
